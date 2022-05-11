@@ -1,0 +1,13 @@
+tensorflow==2.4.1
+pytorch-lightning==1.2.3
+transformers
+datasets
+accelerate
+sentencepiece
+tqdm
+pandas
+jsonlines
+ckiptagger
+nltk
+spacy
+rouge
